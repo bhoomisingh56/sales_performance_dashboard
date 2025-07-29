@@ -20,7 +20,7 @@
 - Top 5 products contributed significantly to overall revenue, led by Prod040 (₹21.58M).
 - Electricalsara Stores is the largest customer with over ₹413M in revenue.
 
-#✅ Process
+# ✅ Process
 - Imported raw sales data into Power BI from source files.
 - Performed data cleaning, transformation, and date modeling.
 - Built measures using DAX (e.g., total revenue, quantity).
